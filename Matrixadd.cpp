@@ -4,8 +4,7 @@ using namespace std;
 int main()
 {
 	int a[4][4],b[4][4],c[4][4],i,j,k;
-	cout<<"\nStudent name - Yash Lade\n";
-	cout<<"\nEnroll. no. - 0832CS221229\n ";
+	cout<<"\n@Author - Yash Lade\n";
 	
 	cout<<"\nEnter the elements in first matrix :\n";
 	
